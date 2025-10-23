@@ -1,3 +1,4 @@
+[English Version 🇬🇧](README-EN.md)
 # Módulo Web: Sistema de Control de Acceso con inteligencia bimodal (Autenticación y Autorización)
 
 Este repositorio contiene el código fuente de un módulo de aplicación web diseñado para gestionar el **Control de Acceso** y la **Autenticación** de usuarios mediante un sistema basado en roles.
