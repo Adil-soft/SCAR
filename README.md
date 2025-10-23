@@ -21,9 +21,6 @@ Este repositorio contiene el código fuente de un módulo de aplicación web dis
 ## Instalación y Uso
 
 1.  **Clonar el repositorio:**
-    ```bash
-    git clone [https://www.youtube.com/watch?v=_jABgj6BHCo](https://www.youtube.com/watch?v=_jABgj6BHCo)
-    ```
 2.  **Configurar la base de datos:** Importar el esquema de la base de datos (generalmente desde `q1.sql`).
 3.  **Configurar credenciales:** Modificar el archivo `config-sql.php` con tus credenciales de base de datos.
 4.  **Ejecutar:** Abrir el proyecto en un servidor local (XAMPP, WAMP, etc.).
